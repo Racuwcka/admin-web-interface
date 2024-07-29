@@ -1,0 +1,5 @@
+.idea
+.gitlab-ci.yml
+ci-excludes.txt
+.env
+config
